@@ -7,4 +7,4 @@ Use the below links to check the ploty images:
 
 http://nbviewer.jupyter.org/github/shailendrapatil92/Data-Visualization/blob/master/dataviz_finals.ipynb
 
-http://nbviewer.jupyter.org/github/shailendrapatil92/Data-Visualization/blob/master/midterm_visualization.ipynb
+http://nbviewer.jupyter.org/github/shailendrapatil92/Data-Visualization/blob/master/unemployment_visualization.ipynb
