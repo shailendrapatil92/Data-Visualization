@@ -12,3 +12,7 @@ http://nbviewer.jupyter.org/github/shailendrapatil92/Data-Visualization/blob/mas
 
 All the visualizations can be checked below in the consolidated jupyter notebook file  
 http://nbviewer.jupyter.org/github/shailendrapatil92/Data-Visualization/blob/master/all_visualizations.ipynb
+
+Tableau Visualization: 
+https://public.tableau.com/profile/karthik.anbazhagan#!/vizhome/DViz_Final_Tableau/Mappingthegreatrecession?publish=yes
+
